@@ -10,7 +10,8 @@ def greetUser():
     print("4. Delete a person from the database")
     print("0. Close Application\n")
 
+    print("#####################################")
+
     choice = input()
 
-    print("#####################################")
     return choice
